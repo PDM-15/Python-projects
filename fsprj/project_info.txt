@@ -1,0 +1,6 @@
+Package installation required:
+fpdf2
+
+Simple CRUD application built with agri theme -> Python practice project.
+Used Tkinter for UI
+Can add, delete, update and view entries for crop, fertilizer and labourer. Additionally can download a pdf with these information from summary.
